@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "892619011899",
+    "project_id": "safer-1cc9d",
+    "storage_bucket": "safer-1cc9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892619011899:android:8920a57521fb07d253a91e",
+        "android_client_info": {
+          "package_name": "com.arrowscars.safer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892619011899-cq84pmm5qo2el1561vqmi3gilu97u8lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxB29xDGq0aM4VfbbBXJo20vebkPkMFpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892619011899-cq84pmm5qo2el1561vqmi3gilu97u8lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892619011899:android:79bdecfb407a906e53a91e",
+        "android_client_info": {
+          "package_name": "com.arrowscars.safer_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892619011899-cq84pmm5qo2el1561vqmi3gilu97u8lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxB29xDGq0aM4VfbbBXJo20vebkPkMFpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892619011899-cq84pmm5qo2el1561vqmi3gilu97u8lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892619011899:android:6c3f740a98a736f453a91e",
+        "android_client_info": {
+          "package_name": "com.arrowscars.safer_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892619011899-g8klk6m03h11e1ne32qp88u03esqk25b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrowscars.safer_user",
+            "certificate_hash": "9d9cfcfee276b8602b8a2a170575eaffa38097ef"
+          }
+        },
+        {
+          "client_id": "892619011899-cq84pmm5qo2el1561vqmi3gilu97u8lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxB29xDGq0aM4VfbbBXJo20vebkPkMFpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892619011899-cq84pmm5qo2el1561vqmi3gilu97u8lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
