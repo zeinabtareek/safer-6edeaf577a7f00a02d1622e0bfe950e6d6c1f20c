@@ -100,23 +100,25 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: Montserrat
+    - family: Tajawal
+#    - family: Montserrat
       fonts:
-        - asset: assets/fonts/Montserrat-Regular.ttf
-        - asset: assets/fonts/Montserrat-Italic.ttf
-        - asset: assets/fonts/Montserrat-Bold.ttf
+        - asset: assets/fonts/tajawal.ttf
+#        - asset: assets/fonts/Montserrat-Regular.ttf
+#        - asset: assets/fonts/Montserrat-Italic.ttf
+#        - asset: assets/fonts/Montserrat-Bold.ttf
 
 
-    - family: Cairo
-      fonts:
-        - asset: assets/fonts/Cairo-Regular.ttf
-#          - asset: assets/fonts/Cairo-Bold.ttf
-    - family: Cairo-Light
-      fonts:
-        - asset: assets/fonts/Cairo-Light.ttf
-    - family: Cairo-Regular
-      fonts:
-        - asset: assets/fonts/Cairo-Regular.ttf
+#    - family: Cairo
+#      fonts:
+#        - asset: assets/fonts/Cairo-Regular.ttf
+##          - asset: assets/fonts/Cairo-Bold.ttf
+#    - family: Cairo-Light
+#      fonts:
+#        - asset: assets/fonts/Cairo-Light.ttf
+#    - family: Cairo-Regular
+#      fonts:
+#        - asset: assets/fonts/Cairo-Regular.ttf
   # fonts:
   #   - family: Schyler
   #     fonts:

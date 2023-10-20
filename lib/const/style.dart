@@ -81,14 +81,15 @@ class K{
 
   static get appTheme => ThemeData(
       colorScheme: _customColorScheme,
-      fontFamily:'Cairo',
+      fontFamily:'Tajawal',
+      // fontFamily:'Cairo',
       textTheme: const TextTheme(
         // Set the default font family for the app
-        bodyText1: TextStyle(fontFamily: 'Cairo-Regular'),
-        bodyText2: TextStyle(fontFamily: 'Cairo-Regular'),
-        // You can also specify font family for other text styles
-        headline1: TextStyle(fontFamily: 'Cairo-Light', fontSize: 24),
-        subtitle1: TextStyle(fontFamily: 'Cairo', fontStyle: FontStyle.italic),),
+        bodyText1: TextStyle(fontFamily: 'Tajawal'),
+        bodyText2: TextStyle(fontFamily: 'Tajawal'),
+         headline1: TextStyle(fontFamily: 'Tajawal', fontSize: 24),
+        subtitle1: TextStyle(fontFamily: 'Tajawal', fontStyle: FontStyle.italic),),
+
       appBarTheme: AppBarTheme(
           elevation: 0,
           centerTitle: true,
